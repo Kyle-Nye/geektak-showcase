@@ -50,7 +50,17 @@ The application implements granular Error Boundaries. If a specific component fa
 
 ## 🎨 Interface Gallery
 
-(Screenshots to be added)
+### Homepage - Neural Interface Design
+![Geektak Homepage](assets/geektak-homepage.jpg)
+
+### Single Post View - Streaming Content
+![Geektak Single Post](assets/geektak-single-post.jpg)
+
+### Mobile Experience
+<div style="display: flex; gap: 10px;">
+  <img src="assets/geektak-mobile-ui-1.jpg" alt="Mobile UI 1" width="45%">
+  <img src="assets/geektak-mobile-ui-2.jpg" alt="Mobile UI 2" width="45%">
+</div>
 
 ## 🛠️ Tech Stack
 
